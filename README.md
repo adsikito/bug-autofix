@@ -23,5 +23,5 @@
 ### 1. 克隆仓库
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/bug-autofix.git
+git clone https://github.com//adsikitobug-autofix.git
 cd bug-autofix
